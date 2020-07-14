@@ -12,4 +12,6 @@ five different ways:
 - HDF5:  create model and load weights and
 - TF Lite: load full model and weights.
 
-You only need to install **TensorFlow 2+** for this script.
+You only need to install **TensorFlow 2+** for this script. 
+
+A summary of my measurements can be found in [the following article](https://towardsdatascience.com/tensorflow-performance-loading-models-fb2d0dc340a3).
